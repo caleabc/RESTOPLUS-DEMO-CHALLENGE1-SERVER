@@ -1,0 +1,9 @@
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# I ignore .env in here because this repository do not contain any sensitive information
+# .env
+
